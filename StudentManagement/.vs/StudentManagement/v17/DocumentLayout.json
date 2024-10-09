@@ -1,0 +1,700 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\presentation\\studentmanagement.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|solutionrelative:presentation\\studentmanagement.presentation\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\presentation\\studentmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|solutionrelative:presentation\\studentmanagement.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\updatelessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\updatelessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\updatelessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\updatestudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\updateexamvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\updateexamvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\updateexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\updateexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\migrations\\studentmanagmentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\migrations\\studentmanagmentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\context\\studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\context\\studentmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\configurations\\studentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.domain\\concretes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:core\\studentmanagement.domain\\concretes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\mappers\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\mappers\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\services\\lessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\presentation\\studentmanagement.presentation\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|solutionrelative:presentation\\studentmanagement.presentation\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\configurations\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.domain\\concretes\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:core\\studentmanagement.domain\\concretes\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\services\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\services\\ilessonservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\services\\examservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\presentation\\studentmanagement.presentation\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|solutionrelative:presentation\\studentmanagement.presentation\\controllers\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\configurations\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\configurations\\examconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.domain\\concretes\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:core\\studentmanagement.domain\\concretes\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.domain\\abstracts\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEA87578-EBE3-417D-8F76-C8007DE89914}|Core\\StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:core\\studentmanagement.domain\\abstracts\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\presentation\\studentmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6A3AEA76-7536-4560-BF3B-B58A8010FA15}|Presentation\\StudentManagement.Presentation\\StudentManagement.Presentation.csproj|solutionrelative:presentation\\studentmanagement.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\results\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\addstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\addstudentvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\addlessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\addlessonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\addlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\addlessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\validations\\addexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\validations\\addexamvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\core\\studentmanagement.application\\dtos\\addexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1E1DC04-21A5-4115-8266-5D69FA344D4A}|Core\\StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:core\\studentmanagement.application\\dtos\\addexamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\migrations\\20241009223719_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\migrations\\20241009223719_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|c:\\users\\namig\\onedrive\\desktop\\studentmanagmerttask\\studentmanagement\\infrastucture\\studentmanagement.persistence\\migrations\\20241009223719_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{772D68B3-68F7-4D2C-AC3D-8C9DAF56B8C8}|Infrastucture\\StudentManagement.Persistence\\StudentManagement.Persistence.csproj|solutionrelative:infrastucture\\studentmanagement.persistence\\migrations\\20241009223719_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateLessonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateLessonValidator.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\UpdateLessonValidator.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateLessonValidator.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\UpdateLessonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:47.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateLessonDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\UpdateLessonDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateLessonDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\UpdateLessonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:47.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdateExamValidation.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateExamValidation.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\UpdateExamValidation.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateExamValidation.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\UpdateExamValidation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:46.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateExamDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\UpdateExamDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateExamDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\UpdateExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:46.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\StudentService.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:40.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentManagmentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\StudentManagmentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Migrations\\StudentManagmentDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\StudentManagmentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Migrations\\StudentManagmentDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAAwLcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentManagement.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Program.cs",
+              "RelativeToolTip": "Presentation\\StudentManagement.Presentation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:28.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentManagement.Presentation\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Presentation\\StudentManagement.Presentation\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:34.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:28.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\UpdateStudentDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:48.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateStudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateStudentValidator.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\UpdateStudentValidator.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\UpdateStudentValidator.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\UpdateStudentValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:48.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Context\\StudentManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Context\\StudentManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Context\\StudentManagementDbContext.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Context\\StudentManagementDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:35.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\StudentConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Configurations\\StudentConfiguration.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\StudentConfiguration.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Configurations\\StudentConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:34.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Student.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Domain\\Concretes\\Student.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Student.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Domain\\Concretes\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:33.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:31.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\ServiceRegistration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:30.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Mappers\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Mappers\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Mappers\\MapperProfile.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Mappers\\MapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:27.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LessonService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\LessonService.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Services\\LessonService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\LessonService.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Services\\LessonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:25.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentManagement.Presentation\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "Presentation\\StudentManagement.Presentation\\Controllers\\LessonController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:24.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Configurations\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\LessonConfiguration.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Configurations\\LessonConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:23.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Lesson.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Domain\\Concretes\\Lesson.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Lesson.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Domain\\Concretes\\Lesson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:22.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:21.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ILessonService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\ILessonService.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Services\\ILessonService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\ILessonService.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Services\\ILessonService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:19.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\IExamService.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Services\\IExamService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Services\\IExamService.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Services\\IExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExamService.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\ExamService.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Services\\ExamService.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Services\\ExamService.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Services\\ExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:15.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\ExamController.cs",
+              "RelativeDocumentMoniker": "Presentation\\StudentManagement.Presentation\\Controllers\\ExamController.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\Controllers\\ExamController.cs",
+              "RelativeToolTip": "Presentation\\StudentManagement.Presentation\\Controllers\\ExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:13.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ExamConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\ExamConfiguration.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Configurations\\ExamConfiguration.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Configurations\\ExamConfiguration.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Configurations\\ExamConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:10.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Exam.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Domain\\Concretes\\Exam.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Concretes\\Exam.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Domain\\Concretes\\Exam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:08.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Abstracts\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Domain\\Abstracts\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Domain\\Abstracts\\BaseEntity.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Domain\\Abstracts\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:05.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Presentation\\StudentManagement.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Presentation\\StudentManagement.Presentation\\appsettings.json",
+              "RelativeToolTip": "Presentation\\StudentManagement.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T22:54:04.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Results\\ApiResult.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Results\\ApiResult.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Results\\ApiResult.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Results\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:03.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddStudentValidator.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddStudentValidator.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\AddStudentValidator.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddStudentValidator.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\AddStudentValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AddStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddStudentDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\AddStudentDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddStudentDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\AddStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:02.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AddLessonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddLessonValidator.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\AddLessonValidator.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddLessonValidator.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\AddLessonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:01.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AddLessonDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddLessonDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\AddLessonDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddLessonDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\AddLessonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:54:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AddExamValidator.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddExamValidator.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Validations\\AddExamValidator.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Validations\\AddExamValidator.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Validations\\AddExamValidator.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:59.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddExamDto.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddExamDto.cs",
+              "RelativeDocumentMoniker": "Core\\StudentManagement.Application\\Dtos\\AddExamDto.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Core\\StudentManagement.Application\\Dtos\\AddExamDto.cs",
+              "RelativeToolTip": "Core\\StudentManagement.Application\\Dtos\\AddExamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241009223719_init.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.Designer.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.Designer.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.Designer.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.Designer.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAAwLoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241009223719_init.cs",
+              "DocumentMoniker": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.cs",
+              "RelativeDocumentMoniker": "Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.cs",
+              "ToolTip": "C:\\Users\\namig\\OneDrive\\Desktop\\StudentManagmertTask\\StudentManagement\\Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.cs",
+              "RelativeToolTip": "Infrastucture\\StudentManagement.Persistence\\Migrations\\20241009223719_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T22:53:27.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
